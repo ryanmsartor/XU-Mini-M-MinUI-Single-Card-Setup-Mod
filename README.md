@@ -4,8 +4,8 @@ The SYSTEM file in this zip will enable you to **run MinUI from a single SD card
 
 ## Changelog:
 
-v0.1.0 - Initial release
-v0.2.0 - Add back capability to use TF2 if present, so either 1-card OR 2-card setup can be used.
+- v0.1.0 - Initial release
+- v0.2.0 - Add back capability to use TF2 if present, so either 1-card OR 2-card setup can be used.
 
 ## Installation Instructions
 1. **Download** the latest official releases of **[MOSS](https://github.com/shauninman/Moss-magicmini/releases/latest) and [MinUI](https://github.com/shauninman/MinUI/releases/latest)** from Shaun's GitHub, as well as my modified **[System.zip](https://github.com/ryanmsartor/XU-Mini-M-MinUI-Single-Card-Setup-Mod/releases/download/v0.1.0/SYSTEM.zip)**.
