@@ -49,3 +49,7 @@ The SYSTEM file in this zip will enable you to **run MinUI from a single SD card
 ![image](https://github.com/user-attachments/assets/2ac62f52-2aa4-4abf-969a-db445b691a16)
 
 9. Eject your SD card from your computer, and insert it into the lefthand slot of your XU Mini M, then boot the device. **Congrats, you are now running a single card setup of MinUI!**
+
+## Updating this mod from a previous version
+
+Simply replace the SYSTEM squashfs file on your MOSS partition with the newest version. No need to go through all the other steps.
