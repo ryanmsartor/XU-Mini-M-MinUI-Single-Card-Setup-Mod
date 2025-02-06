@@ -3,7 +3,7 @@
 The SYSTEM file in this zip will enable you to **run MinUI from a single SD card on the XU Mini M**, which cannot be done using the official Moss-magicmini release. Please note that the tradeoff for this single card setup is the loss of the ability to share one MinUI card across multiple different devices.
 
 ## Installation Instructions
-1. **Download** the latest official releases of **[MOSS](https://github.com/shauninman/Moss-magicmini/releases/latest) and [MinUI](https://github.com/shauninman/MinUI/releases/latest)** from Shaun's GitHub.
+1. **Download** the latest official releases of **[MOSS](https://github.com/shauninman/Moss-magicmini/releases/latest) and [MinUI](https://github.com/shauninman/MinUI/releases/latest)** from Shaun's GitHub, as well as my modified **[System.zip](https://github.com/ryanmsartor/XU-Mini-M-MinUI-Single-Card-Setup-Mod/releases/download/v0.1.0/SYSTEM.zip)**.
 
 2. **Download** and install to your computer your preferred **software for flashing** bootable SD cards. I like [Raspberry Pi Imager](https://www.raspberrypi.com/software/), personally.
 
